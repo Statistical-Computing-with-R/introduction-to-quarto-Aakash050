@@ -1,7 +1,7 @@
 ---
 title: "Lab 1: Introduction to Quarto"
 author: "Aakash Kapadia!"
-date: "9/26/2024!"
+date: "9/27/2024!"
 format: html
 editor: source
 embed-resources: true
